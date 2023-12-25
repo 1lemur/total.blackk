@@ -1,0 +1,80 @@
+@media (max-width: 768px){
+    .portfolio-upsc, .portfolio-mazer, .portfolio-wsh, .portfolio-xenaex{
+        margin-top: 0;
+    }
+    .top-menu-md{
+        display: none !important;
+    }
+    .main-desc h1{
+        font-size: 5.208333vw; /* 40/768 */
+    }
+    .main-title-abs{
+        float: right;
+        margin: 0;
+    }
+    .main-img img{
+        width: 100%;
+    }
+    .main-img{
+        padding: 0;
+    }
+    .next{
+        font-size: 3vw; /* 12/400 */
+    }
+    .portfolio-card p{
+        font-size: 2.4vw; /* 12/400 */
+    }
+    .stay, .shower-desc {
+        font-size: 2.75vw; /* 11/400 */
+    }
+    .about-desc h1 {
+        font-size: 4vw; /* 20/400 */
+    }
+    .about768 p{
+        font-size: 2.75vw; /* 11/400 */
+    }
+    .form-title{
+        margin-bottom: 3vw;
+    }
+    .footer-inst a img{
+        display: none;
+    }
+}
+@media (max-width: 435px){
+    .services-desc-cont p{
+        font-size: 2.068966vw; /* 9/435 */
+    }
+    .services-desc-cont h2{
+        font-size: 3.448276vw; /* 15/435 */
+    }
+    .services-desc-cont{
+        max-width: 49.425287vw; /* 215/435 */
+    }
+    .services-title{
+        font-size: 4.597701vw; /* 20/435 */
+    }
+    .gallery-nav-filter-btn{
+        font-size: 1.83908vw; /* 8/435 */
+    }
+    .gallery-title h1{
+        font-size: 4.597701vw; /* 20/435 */
+    }
+    .form-inputs input{
+        border-radius: 0;
+    }
+    .footer-container{
+        font-size: 1.5vw; /* 6.891/435 */
+    }
+    .form-right-pic{
+        margin-top: calc(var(--index) * 4);
+    }
+    .services-dates-cont p{
+        font-size: 8px;
+    }
+    .gallery-nav-filter-btn{
+        font-size: 8px;
+    }
+    .portfolio-title h1{
+        font-size: 4.597701vw; /* 20/435 */
+    }
+}
