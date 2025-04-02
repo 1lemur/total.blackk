@@ -10,6 +10,10 @@
     margin: 0;
 }
 
+body {
+    overflow-x: hidden; 
+    overflow-y: auto;    
+}  
 input{
     outline: none;
 }
