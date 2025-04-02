@@ -10,6 +10,10 @@
     margin: 0;
 }
 
+input{
+    outline: none;
+}
+
 /* header */
 
 .top-menu-md{
@@ -93,6 +97,7 @@
     font-size: 1.4vw;
     font-weight: 400;
     line-height: normal;
+    cursor: pointer;
 }
 main{
     margin-bottom: 12.5vw;
@@ -223,6 +228,7 @@ main{
 }
 .gallery-nav{
     border-bottom: 1px solid white;
+    padding-bottom: .5rem;
 }
 .gallery-nav-filter-btn{cursor: pointer;}
 .gallery-nav-filter-btn.selected{

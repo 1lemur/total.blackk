@@ -4,8 +4,9 @@ body{
     color: white;
     background-color: #0A0909;
     font-size: calc(var(--index)) !important;
+    user-select: none;
 }
-h1, h2, h3, h4, h5, p, a{
+*{
     margin: 0;
     padding: 0;
 }

@@ -53,6 +53,9 @@
     .services-title{
         font-size: 4.597701vw; /* 20/435 */
     }
+    .gallery-nav{
+        padding-bottom: 0;
+    }
     .gallery-nav-filter-btn{
         font-size: 1.83908vw; /* 8/435 */
     }
